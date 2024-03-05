@@ -2,5 +2,5 @@
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=clourdenc&label=Como+The+Llama+%F0%9F%A6%99&color=ff69b4" alt="Como The Llama 👨‍🚀"/>
+  <img src="https://komarev.com/ghpvc/?username=clourdenc&label=Como+The+Llama+%F0%9F%A6%99++&color=ff69b4" alt="Como The Llama 👨‍🚀"/>
 </p>
